@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.5",
+    "postcss-import": "^14.0.2",
+    "postcss-scss": "^4.0.0"
+  },
+  "devDependencies": {
+    "cssnano": "^5.0.6",
+    "tailwindcss": "^2.2.4"
+  }
+}
