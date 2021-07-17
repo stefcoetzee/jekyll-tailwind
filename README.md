@@ -1,9 +1,11 @@
 # Jekyll with Tailwind CSS
 
 You want to run `jekyll new your-site --blank` and add
-[Tailwind CSS](tailwindcss.com), right?
+[Tailwind CSS](tailwindcss.com) yourself, right?
 Don’t.
 Fork this repo instead.
+
+Minimal Jekyll + Tailwind CSS starter repo without long reload render delays.
 
 ## Getting Started
 
@@ -18,10 +20,11 @@ bin/setup
 ### Development
 
 ```bash
-# Build for development.
+# Make all Tailwind utility classes available for development.
 bin/build-dev
 
-# Start a server at http://localhost:4000.
+# Start a live-reload server at http://localhost:4000, skipping file with Tailwind
+# @import statements during regeneration.
 bin/start
 ```
 
@@ -30,7 +33,7 @@ bin/start
 Delete `.site` and it’s contents to see the production build output.
 
 ```bash
-# Build for production.
+# Purge unused classes.
 bin/build-prod
 ```
 
@@ -41,4 +44,4 @@ scripts [here](https://github.com/joemasilotti/masilotti.com/tree/main/bin).
 Thanks to [@shafy](https://github.com/shafy) for sharing the two config-file
 approach [here](https://canolcer.com/post/jekyll-and-tailwind/).
 
-Say hi [@stef_coetzee](https://twitter.com/stef_Coetzee)!
+Say hi [@stef_coetzee](https://twitter.com/stef_coetzee)!
