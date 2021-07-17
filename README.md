@@ -7,6 +7,10 @@ Fork this repo instead.
 
 Minimal Jekyll + Tailwind CSS starter repo without long reload render delays.
 
+[Responsive demo](https://jekyll-tailwind.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a22ca4cf-cb1f-4bf3-9fbc-2833226e9b8e/deploy-status)](https://app.netlify.com/sites/jekyll-tailwind/deploys)
+
 ## Getting Started
 
 ```bash
