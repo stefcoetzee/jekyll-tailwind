@@ -43,9 +43,9 @@ bin/build-prod
 
 ## Credit
 
-Thanks to [@joemasilotti](https://github.com/joemasilotti) for sharing his build
-scripts [here](https://github.com/joemasilotti/masilotti.com/tree/main/bin).
 Thanks to [@shafy](https://github.com/shafy) for sharing the two config-file
 approach [here](https://canolcer.com/post/jekyll-and-tailwind/).
+Thanks to [@joemasilotti](https://github.com/joemasilotti) for sharing his build
+scripts [here](https://github.com/joemasilotti/masilotti.com/tree/main/bin).
 
 Say hi [@stef_coetzee](https://twitter.com/stef_coetzee)!
