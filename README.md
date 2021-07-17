@@ -5,7 +5,7 @@ You want to run `jekyll new your-site --blank` and add
 Don’t.
 Fork this repo instead.
 
-Minimal Jekyll + Tailwind CSS starter repo without long reload render delays.
+Minimal Jekyll and Tailwind CSS starter repo without long live-reload render times.
 
 ## Getting Started
 
