@@ -7,7 +7,7 @@ You want to run `jekyll new your-site --blank` and add
 Don’t.
 Fork this repo instead.
 
-[Responsive demo of following the instructions below](https://jekyll-tailwind.netlify.app/)
+[Responsive demo](https://jekyll-tailwind.netlify.app/) (resize your window and watch it adjust)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a22ca4cf-cb1f-4bf3-9fbc-2833226e9b8e/deploy-status)](https://app.netlify.com/sites/jekyll-tailwind/deploys)
 
