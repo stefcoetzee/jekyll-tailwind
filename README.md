@@ -1,6 +1,6 @@
 # Jekyll + Tailwind CSS
 
-Minimal Jekyll and Tailwind CSS starter repo without long live-reload render times.
+> Minimal Jekyll and Tailwind CSS starter repo without long live-reload render times.
 
 You want to run `jekyll new your-site --blank` and add
 [Tailwind CSS](tailwindcss.com) yourself, right?
@@ -8,6 +8,8 @@ Don’t.
 Fork this repo instead.
 
 [Responsive demo](https://jekyll-tailwind.netlify.app/) (resize your window and watch it adjust)
+
+Check out the accompanying [blog post](https://stefcoetzee.com/2021/07/28/jekyll-tailwind-starter-repo).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a22ca4cf-cb1f-4bf3-9fbc-2833226e9b8e/deploy-status)](https://app.netlify.com/sites/jekyll-tailwind/deploys)
 
