@@ -8,6 +8,9 @@ plugins:
 sass:
   sourcemap: never
 
+postcss:
+  cache: false
+
 exclude:
   - .gitignore
   - bin
@@ -15,7 +18,7 @@ exclude:
   - package-lock.json
   - postcss.config.js
   - README.md
-  - assets/css/tailwind.scss
+  # - assets/css/tailwind.scss
 
 # files Jekyll should not delete from .site
 keep_files:

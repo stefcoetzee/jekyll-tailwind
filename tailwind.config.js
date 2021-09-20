@@ -1,4 +1,5 @@
 module.exports = {
+  mode: 'jit',
   purge: {
     enabled: process.env.JEKYLL_ENV == "production",
     content:[
