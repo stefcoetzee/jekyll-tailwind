@@ -7,6 +7,6 @@
   },
   "devDependencies": {
     "cssnano": "^5.0.6",
-    "tailwindcss": "^2.2.4"
+    "tailwindcss": "^3.0.10"
   }
 }
